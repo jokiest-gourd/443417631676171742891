@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873358810696",
+    "project_id": "multimedia-28b16",
+    "storage_bucket": "multimedia-28b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873358810696:android:e8dfb240457f97150ac27d",
+        "android_client_info": {
+          "package_name": "com.samtotachi.guidetipseversoul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873358810696-14gmnnm10h2e1d7u6nbem2ogd749ec63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUW9akV91jDcKm_6113OMKkQ7HJhKHYAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873358810696-14gmnnm10h2e1d7u6nbem2ogd749ec63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
